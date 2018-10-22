@@ -20,5 +20,6 @@ fun testCollect(){
 }
 
 fun main(array: Array<String>){
+      //测试
       testCollect()
 }
